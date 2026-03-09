@@ -16,14 +16,18 @@ npm -v     # 应该显示 10.x.x 或更高
 
 ## 🚀 快速开始
 
-### 1. 克隆仓库
+### 1️⃣ 克隆仓库
 
 ```bash
 # 克隆到本地
 git clone https://github.com/techeditor/teclaw-growth.git
 
-# 进入目录
-cd teclaw-growth
+# 进入 workspace projects 目录
+cd ~/.openclaw/workspace/projects
+mv teclaw-growth projects/
+
+# 进入项目目录
+cd projects/teclaw-growth
 ```
 
 ### 2. 安装依赖
@@ -163,7 +167,7 @@ GitHub Actions 会自动：
 ## 📁 目录结构
 
 ```
-teclaw-growth/
+~/.openclaw/workspace/projects/teclaw-growth/
 ├── docs/
 │   ├── .vitepress/
 │   │   └── config.js          # 站点配置
