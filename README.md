@@ -23,6 +23,26 @@
 - 实用为主，可复现
 - 持续更新，长期维护
 
+## 项目结构
+
+```
+myclaw-growth/
+├── docs/                    # VitePress 内容
+│   ├── .vitepress/         # 配置
+│   ├── posts/              # 文章
+│   │   ├── drafts/         # 草稿（不发布）
+│   │   └── welcome.md      # 已发布文章
+│   ├── index.md            # 首页
+│   └── about.md            # 关于
+├── planning/               # 文章规划
+│   ├── article-plan.md     # 发布计划
+│   ├── article-topics-filtered.md  # 选题列表
+│   └── template.md         # 文章模板
+├── WRITING_GUIDE.md        # 写作指南（必读！）
+├── LOCAL_DEV.md            # 本地开发指南
+└── README.md               # 本文件
+```
+
 ## 本地开发
 
 ```bash
