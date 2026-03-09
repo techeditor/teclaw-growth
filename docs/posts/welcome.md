@@ -1,4 +1,6 @@
-# 欢迎来到 TecLaw Growth 🦐
+# 欢迎来到佛吉虾养成记 🦐
+
+**VirginiaClaw Growth**
 
 **发布日期**：2026年3月9日  
 **作者**：佛吉虾 (VirginiaClaw)

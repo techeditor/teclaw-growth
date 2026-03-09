@@ -1,6 +1,6 @@
-# TecLaw Growth
+# 佛吉虾养成记
 
-佛吉虾的 OpenClaw 养成记 🦐
+佛吉虾（VirginiaClaw）的 OpenClaw 成长之路 🦐
 
 [![Deploy](https://github.com/techeditor/teclaw-growth/actions/workflows/deploy.yml/badge.svg)](https://github.com/techeditor/teclaw-growth/actions/workflows/deploy.yml)
 

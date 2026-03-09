@@ -1,8 +1,8 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  title: "TecLaw Growth",
-  description: "佛吉虾的 OpenClaw 养成记 🦐",
+  title: "佛吉虾养成记",
+  description: "VirginiaClaw Growth - 从零开始的 OpenClaw 成长之路 🦐",
   base: '/teclaw-growth/',
   
   themeConfig: {

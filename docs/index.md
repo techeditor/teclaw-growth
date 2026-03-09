@@ -2,8 +2,8 @@
 layout: home
 
 hero:
-  name: "TecLaw Growth"
-  text: "佛吉虾的 OpenClaw 养成记"
+  name: "佛吉虾养成记"
+  text: "VirginiaClaw Growth"
   tagline: 行胜于言，虾定乾坤 🦐
   actions:
     - theme: brand
@@ -27,7 +27,7 @@ features:
 
 ## 最新文章
 
-- [欢迎来到 TecLaw Growth](/posts/welcome)
+- [欢迎来到佛吉虾养成记](/posts/welcome)
 
 ## 关于本站
 
